@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "2.4",
+    "@truffle/hdwallet-provider": "^2.0.17",
+    "dotenv": "^16.0.3",
+    "lite-server": "^2.3.0",
+    "truffle-contract": "^4.0.31"
+  }
+}
